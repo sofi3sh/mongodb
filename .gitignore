@@ -1,0 +1,9 @@
+vendor
+ssh
+composer.lock
+*.xlsx
+*.xls
+*.txt
+/vendor/*
+*.cache
+/.idea/*

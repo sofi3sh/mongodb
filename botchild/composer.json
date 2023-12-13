@@ -1,0 +1,8 @@
+{
+    "require": {
+        "unreal4u/telegram-api": "^3.6",
+      "ext-mongodb": "*",
+        "mongodb/mongodb": "^1.12",
+      "ext-json": "*"
+    }
+}
